@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01 02:13 UTC",
+  "last_updated": "2026-03-01 04:59 UTC",
   "repos": {
     "sipeed/picoclaw": {
       "metadata": {
@@ -7,12 +7,12 @@
         "name": "picoclaw",
         "owner": "sipeed",
         "description": "Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity",
-        "stars": 21142,
+        "stars": 21167,
         "language": "Go",
         "url": "https://github.com/sipeed/picoclaw",
         "homepage": "https://picoclaw.io",
         "topics": [],
-        "updated_at": "2026-02-28"
+        "updated_at": "2026-03-01"
       },
       "summary": {
         "zh": "生成失败",
@@ -20,7 +20,7 @@
         "tags_zh": [],
         "tags_en": []
       },
-      "pushed_at": "2026-02-28",
+      "pushed_at": "2026-03-01",
       "updated_at": "2026-03-01"
     },
     "iblogc/GithubStarsIndex": {
@@ -29,12 +29,12 @@
         "name": "GithubStarsIndex",
         "owner": "iblogc",
         "description": "自动抓取 GitHub Stars，生成 AI 摘要，便于检索。",
-        "stars": 40,
+        "stars": 43,
         "language": "Jinja",
         "url": "https://github.com/iblogc/GithubStarsIndex",
         "homepage": "https://iblogc.github.io/GithubStarsIndex/",
         "topics": [],
-        "updated_at": "2026-02-28"
+        "updated_at": "2026-03-01"
       },
       "summary": {
         "zh": "生成失败",
@@ -42,7 +42,7 @@
         "tags_zh": [],
         "tags_en": []
       },
-      "pushed_at": "2026-02-28",
+      "pushed_at": "2026-03-01",
       "updated_at": "2026-03-01"
     },
     "iOfficeAI/AionUi": {
@@ -51,7 +51,7 @@
         "name": "AionUi",
         "owner": "iOfficeAI",
         "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-        "stars": 17412,
+        "stars": 17431,
         "language": "TypeScript",
         "url": "https://github.com/iOfficeAI/AionUi",
         "homepage": "https://www.aionui.com",
@@ -93,7 +93,7 @@
         "name": "xiaohongshu-mcp",
         "owner": "xpzouying",
         "description": "MCP for xiaohongshu.com",
-        "stars": 9569,
+        "stars": 9581,
         "language": "Go",
         "url": "https://github.com/xpzouying/xiaohongshu-mcp",
         "homepage": "https://www.haha.ai/xiaohongshu-mcp",
@@ -207,7 +207,7 @@
         "name": "pi-mono",
         "owner": "badlogic",
         "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
-        "stars": 18209,
+        "stars": 18239,
         "language": "TypeScript",
         "url": "https://github.com/badlogic/pi-mono",
         "homepage": "",
@@ -229,7 +229,7 @@
         "name": "openctp",
         "owner": "openctp",
         "description": "openctp提供CTP股票期权、中泰证券XTP、华鑫证券奇点TORA、东方证券OST、东方财富证券EMT、盈透证券TWS、易盛TAP、量投QDP等各通道的CTPAPI兼容接口，CTP程序可以无缝对接各股票柜台。openctp也提供了一套基于TTS交易系统的模拟环境，同样提供了CTPAPI兼容接口，不仅支持国内期货与期权全品种，也支持A股股票、基金、债券以及股票期权模拟交易，可以替代Simnow，为CTP量化交易开发者提供7x24可用的模拟环境。",
-        "stars": 2694,
+        "stars": 2695,
         "language": "C",
         "url": "https://github.com/openctp/openctp",
         "homepage": "http://www.openctp.cn",
@@ -263,7 +263,7 @@
         "name": "nanobot",
         "owner": "HKUDS",
         "description": "\"🐈 nanobot: The Ultra-Lightweight OpenClaw\"",
-        "stars": 26908,
+        "stars": 26952,
         "language": "Python",
         "url": "https://github.com/HKUDS/nanobot",
         "homepage": "",
@@ -340,7 +340,7 @@
         "name": "twikit",
         "owner": "d60",
         "description": "Twitter API Scraper | Without an API key | Twitter Internal API | Free | Twitter scraper | Twitter Bot",
-        "stars": 4070,
+        "stars": 4071,
         "language": "Python",
         "url": "https://github.com/d60/twikit",
         "homepage": "https://twikit.readthedocs.io/en/latest/twikit.html",
@@ -452,7 +452,7 @@
         "name": "akshare",
         "owner": "akfamily",
         "description": "AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库",
-        "stars": 16627,
+        "stars": 16630,
         "language": "Python",
         "url": "https://github.com/akfamily/akshare",
         "homepage": "https://akshare.akfamily.xyz",
@@ -964,7 +964,7 @@
         "name": "RSSHub",
         "owner": "DIYgod",
         "description": "🧡 Everything is RSSible",
-        "stars": 42262,
+        "stars": 42266,
         "language": "TypeScript",
         "url": "https://github.com/DIYgod/RSSHub",
         "homepage": "https://docs.rsshub.app",
@@ -988,7 +988,7 @@
           "youtube",
           "zhihu"
         ],
-        "updated_at": "2026-02-28"
+        "updated_at": "2026-03-01"
       },
       "summary": {
         "zh": "生成失败",
@@ -996,7 +996,7 @@
         "tags_zh": [],
         "tags_en": []
       },
-      "pushed_at": "2026-02-28",
+      "pushed_at": "2026-03-01",
       "updated_at": "2026-03-01"
     },
     "Srar/node-tap": {
@@ -1971,7 +1971,7 @@
         "name": "tushare",
         "owner": "waditu",
         "description": "TuShare is a utility for crawling historical data of China stocks",
-        "stars": 14496,
+        "stars": 14499,
         "language": "Python",
         "url": "https://github.com/waditu/tushare",
         "homepage": "",
@@ -2050,7 +2050,7 @@
           "userscript",
           "zoom-images"
         ],
-        "updated_at": "2026-02-27"
+        "updated_at": "2026-03-01"
       },
       "summary": {
         "zh": "生成失败",
@@ -2058,7 +2058,7 @@
         "tags_zh": [],
         "tags_en": []
       },
-      "pushed_at": "2026-02-27",
+      "pushed_at": "2026-03-01",
       "updated_at": "2026-03-01"
     },
     "CreatCodeBuild/TensorFlow-and-DeepLearning-Tutorial": {
@@ -2094,7 +2094,7 @@
         "name": "you-get",
         "owner": "soimort",
         "description": ":arrow_double_down: Dumb downloader that scrapes the web",
-        "stars": 56756,
+        "stars": 56754,
         "language": "Python",
         "url": "https://github.com/soimort/you-get",
         "homepage": "https://you-get.org/",
@@ -2138,7 +2138,7 @@
         "name": "easytrader",
         "owner": "shidenggui",
         "description": "提供同花顺客户端/miniqmt/雪球的股票量化交易，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合",
-        "stars": 9402,
+        "stars": 9403,
         "language": "Python",
         "url": "https://github.com/shidenggui/easytrader",
         "homepage": "",
@@ -2428,6 +2428,183 @@
         "tags_en": []
       },
       "pushed_at": "2015-11-26",
+      "updated_at": "2026-03-01"
+    },
+    "zhiyuzi/Signex": {
+      "metadata": {
+        "full_name": "zhiyuzi/Signex",
+        "name": "Signex",
+        "owner": "zhiyuzi",
+        "description": "Personal intelligence agent powered by Claude Code. Describe what to watch, it collects, analyzes, and learns — with extensible sensors and lenses.",
+        "stars": 72,
+        "language": "Python",
+        "url": "https://github.com/zhiyuzi/Signex",
+        "homepage": "https://signex.fyi",
+        "topics": [
+          "ai-agent",
+          "anthropic",
+          "claude",
+          "claude-code",
+          "information-gathering",
+          "intelligence-agent",
+          "osint",
+          "personal-assistant",
+          "signal-monitoring"
+        ],
+        "updated_at": "2026-02-27"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2026-02-27",
+      "updated_at": "2026-03-01"
+    },
+    "sansan0/TrendRadar": {
+      "metadata": {
+        "full_name": "sansan0/TrendRadar",
+        "name": "TrendRadar",
+        "owner": "sansan0",
+        "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+        "stars": 47589,
+        "language": "Python",
+        "url": "https://github.com/sansan0/TrendRadar",
+        "homepage": "https://sansan0.github.io/TrendRadar/",
+        "topics": [
+          "ai",
+          "bark",
+          "data-analysis",
+          "docker",
+          "hot-news",
+          "llm",
+          "mail",
+          "mcp",
+          "mcp-server",
+          "news",
+          "ntfy",
+          "python",
+          "rss",
+          "trending-topics",
+          "wechat",
+          "wework"
+        ],
+        "updated_at": "2026-03-01"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2026-03-01",
+      "updated_at": "2026-03-01"
+    },
+    "ouro-ai-labs/ouro": {
+      "metadata": {
+        "full_name": "ouro-ai-labs/ouro",
+        "name": "ouro",
+        "owner": "ouro-ai-labs",
+        "description": "Ouro is an open-source AI agent — run it as a Coding agent CLI or deploy it as a bot just like JARVIS.",
+        "stars": 10,
+        "language": "Python",
+        "url": "https://github.com/ouro-ai-labs/ouro",
+        "homepage": "",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agents",
+          "bot",
+          "claw",
+          "coding-agent",
+          "skills"
+        ],
+        "updated_at": "2026-03-01"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2026-03-01",
+      "updated_at": "2026-03-01"
+    },
+    "ZhuLinsen/daily_stock_analysis": {
+      "metadata": {
+        "full_name": "ZhuLinsen/daily_stock_analysis",
+        "name": "daily_stock_analysis",
+        "owner": "ZhuLinsen",
+        "description": "LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行",
+        "stars": 14647,
+        "language": "Python",
+        "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+        "homepage": "",
+        "topics": [
+          "agent",
+          "ai",
+          "aigc",
+          "gemini",
+          "llm",
+          "quant",
+          "quantitative-trading",
+          "rag",
+          "stock"
+        ],
+        "updated_at": "2026-02-28"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2026-02-28",
+      "updated_at": "2026-03-01"
+    },
+    "Chen-speculation/narrarc": {
+      "metadata": {
+        "full_name": "Chen-speculation/narrarc",
+        "name": "narrarc",
+        "owner": "Chen-speculation",
+        "description": "",
+        "stars": 36,
+        "language": "Python",
+        "url": "https://github.com/Chen-speculation/narrarc",
+        "homepage": "",
+        "topics": [],
+        "updated_at": "2026-02-26"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2026-02-26",
+      "updated_at": "2026-03-01"
+    },
+    "justlovemaki/AIClient-2-API-Doc": {
+      "metadata": {
+        "full_name": "justlovemaki/AIClient-2-API-Doc",
+        "name": "AIClient-2-API-Doc",
+        "owner": "justlovemaki",
+        "description": "AIClient2API：模拟Gemini CLI和Kiro 客户端请求，兼容OpenAI API。可每日千次Gemini模型请求， 免费使用Kiro内置Claude模型。通过API轻松接入任何客户端，让AI开发更高效！",
+        "stars": 50,
+        "language": "N/A",
+        "url": "https://github.com/justlovemaki/AIClient-2-API-Doc",
+        "homepage": "https://aiproxy.justlikemaki.vip/",
+        "topics": [],
+        "updated_at": "2025-10-05"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2025-10-05",
       "updated_at": "2026-03-01"
     }
   }
