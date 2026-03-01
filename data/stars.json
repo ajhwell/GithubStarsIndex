@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28 19:40 UTC",
+  "last_updated": "2026-03-01 01:48 UTC",
   "repos": {
     "waoowaooAI/waoowaoo": {
       "metadata": {
@@ -97,7 +97,7 @@
         "name": "nanobot",
         "owner": "HKUDS",
         "description": "\"🐈 nanobot: The Ultra-Lightweight OpenClaw\"",
-        "stars": 26867,
+        "stars": 26906,
         "language": "Python",
         "url": "https://github.com/HKUDS/nanobot",
         "homepage": "",
@@ -2955,7 +2955,7 @@
         "name": "AionUi",
         "owner": "iOfficeAI",
         "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-        "stars": 17394,
+        "stars": 17409,
         "language": "TypeScript",
         "url": "https://github.com/iOfficeAI/AionUi",
         "homepage": "https://www.aionui.com",
@@ -2980,7 +2980,7 @@
           "skills",
           "webui"
         ],
-        "updated_at": "2026-02-28"
+        "updated_at": "2026-03-01"
       },
       "summary": {
         "zh": "AionUi 是一款免费、开源的 AI 协作者应用，支持 24/7 自动化，内置多 AI 智能体（如 Claude Code、OpenClaw、Qwen Code 等），提供跨平台（macOS/Windows/Linux）本地运行、零配置启动、远程访问（WebUI/Telegram/Lark）和任务调度功能，适用于代码开发、文件处理与自动化工作流。",
@@ -3108,7 +3108,7 @@
         "name": "xiaohongshu-mcp",
         "owner": "xpzouying",
         "description": "MCP for xiaohongshu.com",
-        "stars": 9564,
+        "stars": 9568,
         "language": "Go",
         "url": "https://github.com/xpzouying/xiaohongshu-mcp",
         "homepage": "https://www.haha.ai/xiaohongshu-mcp",
@@ -10046,7 +10046,7 @@
         "name": "chinese-independent-developer",
         "owner": "1c7",
         "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
-        "stars": 46911,
+        "stars": 46913,
         "language": "N/A",
         "url": "https://github.com/1c7/chinese-independent-developer",
         "homepage": "",
@@ -11735,7 +11735,7 @@
         "name": "chatgpt-on-wechat",
         "owner": "zhayujie",
         "description": "CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信应用、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。",
-        "stars": 41635,
+        "stars": 41636,
         "language": "Python",
         "url": "https://github.com/zhayujie/chatgpt-on-wechat",
         "homepage": "https://cowagent.ai",
@@ -15938,7 +15938,7 @@
         "name": "you-get",
         "owner": "soimort",
         "description": ":arrow_double_down: Dumb downloader that scrapes the web",
-        "stars": 56755,
+        "stars": 56756,
         "language": "Python",
         "url": "https://github.com/soimort/you-get",
         "homepage": "https://you-get.org/",
@@ -27811,6 +27811,2131 @@
       },
       "pushed_at": "2025-05-20",
       "updated_at": "2026-02-28"
+    },
+    "mootdx/mootdx": {
+      "metadata": {
+        "full_name": "mootdx/mootdx",
+        "name": "mootdx",
+        "owner": "mootdx",
+        "description": "通达信数据读取的一个简便使用封装",
+        "stars": 1373,
+        "language": "Python",
+        "url": "https://github.com/mootdx/mootdx",
+        "homepage": "https://www.mootdx.com",
+        "topics": [
+          "mootdx",
+          "pytdx",
+          "tdx",
+          "tdxpy"
+        ],
+        "updated_at": "2024-07-16"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2024-07-16",
+      "updated_at": "2026-03-01"
+    },
+    "crazypeace/xray-vless-reality": {
+      "metadata": {
+        "full_name": "crazypeace/xray-vless-reality",
+        "name": "xray-vless-reality",
+        "owner": "crazypeace",
+        "description": "Xray, VLESS_Reality模式 极简一键脚本",
+        "stars": 416,
+        "language": "Shell",
+        "url": "https://github.com/crazypeace/xray-vless-reality",
+        "homepage": "https://zelikk.blogspot.com/2025/10/xray-vless-reality-tls-x25519.html",
+        "topics": [],
+        "updated_at": "2025-12-02"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2025-12-02",
+      "updated_at": "2026-03-01"
+    },
+    "sipeed/picoclaw": {
+      "metadata": {
+        "full_name": "sipeed/picoclaw",
+        "name": "picoclaw",
+        "owner": "sipeed",
+        "description": "Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity",
+        "stars": 21141,
+        "language": "Go",
+        "url": "https://github.com/sipeed/picoclaw",
+        "homepage": "https://picoclaw.io",
+        "topics": [],
+        "updated_at": "2026-02-28"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2026-02-28",
+      "updated_at": "2026-03-01"
+    },
+    "iblogc/GithubStarsIndex": {
+      "metadata": {
+        "full_name": "iblogc/GithubStarsIndex",
+        "name": "GithubStarsIndex",
+        "owner": "iblogc",
+        "description": "自动抓取 GitHub Stars，生成 AI 摘要，便于检索。",
+        "stars": 40,
+        "language": "Jinja",
+        "url": "https://github.com/iblogc/GithubStarsIndex",
+        "homepage": "https://iblogc.github.io/GithubStarsIndex/",
+        "topics": [],
+        "updated_at": "2026-02-28"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2026-02-28",
+      "updated_at": "2026-03-01"
+    },
+    "Dataojitori/nocturne_memory": {
+      "metadata": {
+        "full_name": "Dataojitori/nocturne_memory",
+        "name": "nocturne_memory",
+        "owner": "Dataojitori",
+        "description": "一个基于uri而不是RAG的轻量级、可回滚、可视化的 **AI 外挂MCP记忆库**。让你的 AI 拥有跨模型，跨会话，跨工具的持久的结构化记忆。",
+        "stars": 269,
+        "language": "Python",
+        "url": "https://github.com/Dataojitori/nocturne_memory",
+        "homepage": "https://dataojitori.github.io/",
+        "topics": [
+          "agentic-ai",
+          "ai-identity",
+          "ai-memory",
+          "artificial-intelligence",
+          "claude",
+          "claude-code",
+          "digital-soul",
+          "llm",
+          "long-term-memory",
+          "mcp",
+          "mcp-server",
+          "postgresql",
+          "python",
+          "rag",
+          "second-brain",
+          "sqlite"
+        ],
+        "updated_at": "2026-02-28"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2026-02-28",
+      "updated_at": "2026-03-01"
+    },
+    "vnpy/vnpy_tts": {
+      "metadata": {
+        "full_name": "vnpy/vnpy_tts",
+        "name": "vnpy_tts",
+        "owner": "vnpy",
+        "description": "VeighNa框架的TTS交易接口（模拟CTP环境）",
+        "stars": 19,
+        "language": "C",
+        "url": "https://github.com/vnpy/vnpy_tts",
+        "homepage": "https://www.vnpy.com",
+        "topics": [
+          "ctp",
+          "python",
+          "veighna",
+          "vnpy"
+        ],
+        "updated_at": "2025-10-18"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2025-10-18",
+      "updated_at": "2026-03-01"
+    },
+    "badlogic/pi-mono": {
+      "metadata": {
+        "full_name": "badlogic/pi-mono",
+        "name": "pi-mono",
+        "owner": "badlogic",
+        "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+        "stars": 18204,
+        "language": "TypeScript",
+        "url": "https://github.com/badlogic/pi-mono",
+        "homepage": "",
+        "topics": [],
+        "updated_at": "2026-02-27"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2026-02-27",
+      "updated_at": "2026-03-01"
+    },
+    "openctp/openctp": {
+      "metadata": {
+        "full_name": "openctp/openctp",
+        "name": "openctp",
+        "owner": "openctp",
+        "description": "openctp提供CTP股票期权、中泰证券XTP、华鑫证券奇点TORA、东方证券OST、东方财富证券EMT、盈透证券TWS、易盛TAP、量投QDP等各通道的CTPAPI兼容接口，CTP程序可以无缝对接各股票柜台。openctp也提供了一套基于TTS交易系统的模拟环境，同样提供了CTPAPI兼容接口，不仅支持国内期货与期权全品种，也支持A股股票、基金、债券以及股票期权模拟交易，可以替代Simnow，为CTP量化交易开发者提供7x24可用的模拟环境。",
+        "stars": 2694,
+        "language": "C",
+        "url": "https://github.com/openctp/openctp",
+        "homepage": "http://www.openctp.cn",
+        "topics": [
+          "ctp",
+          "ctpapi",
+          "futures",
+          "options",
+          "quant",
+          "simnow",
+          "stock",
+          "tora",
+          "trader",
+          "tts",
+          "xtp"
+        ],
+        "updated_at": "2026-01-08"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2026-01-08",
+      "updated_at": "2026-03-01"
+    },
+    "j-hc/revanced-magisk-module": {
+      "metadata": {
+        "full_name": "j-hc/revanced-magisk-module",
+        "name": "revanced-magisk-module",
+        "owner": "j-hc",
+        "description": "Extensive ReVanced builder. Builds both modules and APKs. Updated daily.",
+        "stars": 6942,
+        "language": "Shell",
+        "url": "https://github.com/j-hc/revanced-magisk-module",
+        "homepage": "https://t.me/rvc_magisk",
+        "topics": [
+          "extended",
+          "magisk",
+          "module",
+          "revanced",
+          "rvx"
+        ],
+        "updated_at": "2026-02-28"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2026-02-28",
+      "updated_at": "2026-03-01"
+    },
+    "d60/twikit": {
+      "metadata": {
+        "full_name": "d60/twikit",
+        "name": "twikit",
+        "owner": "d60",
+        "description": "Twitter API Scraper | Without an API key | Twitter Internal API | Free | Twitter scraper | Twitter Bot",
+        "stars": 4070,
+        "language": "Python",
+        "url": "https://github.com/d60/twikit",
+        "homepage": "https://twikit.readthedocs.io/en/latest/twikit.html",
+        "topics": [
+          "bot",
+          "client",
+          "python",
+          "python-web-scraper",
+          "python3",
+          "scrape",
+          "scraper",
+          "scraping",
+          "search",
+          "tweepy",
+          "twitter",
+          "twitter-api",
+          "twitter-bot",
+          "twitter-client",
+          "twitter-internal-api",
+          "twitter-scraper",
+          "wrapper",
+          "x",
+          "x-api"
+        ],
+        "updated_at": "2025-07-06"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2025-07-06",
+      "updated_at": "2026-03-01"
+    },
+    "vitiksys/captcha_ocr": {
+      "metadata": {
+        "full_name": "vitiksys/captcha_ocr",
+        "name": "captcha_ocr",
+        "owner": "vitiksys",
+        "description": "pytorch验证码识别cnn模型",
+        "stars": 58,
+        "language": "Python",
+        "url": "https://github.com/vitiksys/captcha_ocr",
+        "homepage": "",
+        "topics": [],
+        "updated_at": "2021-12-08"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2021-12-08",
+      "updated_at": "2026-03-01"
+    },
+    "akfamily/akshare": {
+      "metadata": {
+        "full_name": "akfamily/akshare",
+        "name": "akshare",
+        "owner": "akfamily",
+        "description": "AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库",
+        "stars": 16626,
+        "language": "Python",
+        "url": "https://github.com/akfamily/akshare",
+        "homepage": "https://akshare.akfamily.xyz",
+        "topics": [
+          "academic",
+          "akshare",
+          "asset-pricing",
+          "bond",
+          "currency",
+          "data",
+          "data-analysis",
+          "data-science",
+          "datasets",
+          "economic-data",
+          "economics",
+          "finance",
+          "finance-api",
+          "financial-data",
+          "fundamental",
+          "futures",
+          "option",
+          "quant",
+          "stock"
+        ],
+        "updated_at": "2026-02-25"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2026-02-25",
+      "updated_at": "2026-03-01"
+    },
+    "xiaomaoJT/clash": {
+      "metadata": {
+        "full_name": "xiaomaoJT/clash",
+        "name": "clash",
+        "owner": "xiaomaoJT",
+        "description": "用于XiaoMao_Clash自定义配置生成，XMC可以帮助用户快捷的合并多份配置或改造原始订阅配置，并实现了热门地区策略的自动分组，并内置了QX内的分流策略，包含如微软、Git、谷歌、苹果、国内geoip、国外域名流媒体、广告拦截、防劫持、隐私防护等功能。",
+        "stars": 42,
+        "language": "HTML",
+        "url": "https://github.com/xiaomaoJT/clash",
+        "homepage": "",
+        "topics": [
+          "clash",
+          "clash-for-android",
+          "clash-for-windows",
+          "clashx",
+          "clashx-pro"
+        ],
+        "updated_at": "2023-09-06"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2023-09-06",
+      "updated_at": "2026-03-01"
+    },
+    "FreeDTV/FreeD": {
+      "metadata": {
+        "full_name": "FreeDTV/FreeD",
+        "name": "FreeD",
+        "owner": "FreeDTV",
+        "description": "",
+        "stars": 604,
+        "language": "N/A",
+        "url": "https://github.com/FreeDTV/FreeD",
+        "homepage": "",
+        "topics": [],
+        "updated_at": "2023-12-22"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2023-12-22",
+      "updated_at": "2026-03-01"
+    },
+    "zhouhaoyi/Informer2020": {
+      "metadata": {
+        "full_name": "zhouhaoyi/Informer2020",
+        "name": "Informer2020",
+        "owner": "zhouhaoyi",
+        "description": "The GitHub repository for the paper \"Informer\" accepted by AAAI 2021.",
+        "stars": 6433,
+        "language": "Python",
+        "url": "https://github.com/zhouhaoyi/Informer2020",
+        "homepage": "",
+        "topics": [
+          "deep-learning",
+          "forecasting",
+          "pytorch",
+          "self-attention",
+          "time-series",
+          "transformer"
+        ],
+        "updated_at": "2025-06-20"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2025-06-20",
+      "updated_at": "2026-03-01"
+    },
+    "haifengat/pyctp": {
+      "metadata": {
+        "full_name": "haifengat/pyctp",
+        "name": "pyctp",
+        "owner": "haifengat",
+        "description": "上期技术期货交易api之python封装，实现接口调用。支持windows linux.",
+        "stars": 259,
+        "language": "Python",
+        "url": "https://github.com/haifengat/pyctp",
+        "homepage": "",
+        "topics": [],
+        "updated_at": "2022-09-12"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2022-09-12",
+      "updated_at": "2026-03-01"
+    },
+    "nooperpudd/ctpwrapper": {
+      "metadata": {
+        "full_name": "nooperpudd/ctpwrapper",
+        "name": "ctpwrapper",
+        "owner": "nooperpudd",
+        "description": "上海期货交易所CTP接口 Shanghai Future CTP Interface  CTP Python API Wrapper",
+        "stars": 563,
+        "language": "Python",
+        "url": "https://github.com/nooperpudd/ctpwrapper",
+        "homepage": "",
+        "topics": [
+          "ctp",
+          "futures",
+          "shfe",
+          "trading-api"
+        ],
+        "updated_at": "2025-05-03"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2025-05-03",
+      "updated_at": "2026-03-01"
+    },
+    "lamter/cfmmc": {
+      "metadata": {
+        "full_name": "lamter/cfmmc",
+        "name": "cfmmc",
+        "owner": "lamter",
+        "description": "中国期货市场监控中心",
+        "stars": 20,
+        "language": "Python",
+        "url": "https://github.com/lamter/cfmmc",
+        "homepage": "",
+        "topics": [],
+        "updated_at": "2017-12-08"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2017-12-08",
+      "updated_at": "2026-03-01"
+    },
+    "nicai0609/Python-CTPAPI": {
+      "metadata": {
+        "full_name": "nicai0609/Python-CTPAPI",
+        "name": "Python-CTPAPI",
+        "owner": "nicai0609",
+        "description": "Python CTP API",
+        "stars": 377,
+        "language": "Python",
+        "url": "https://github.com/nicai0609/Python-CTPAPI",
+        "homepage": "",
+        "topics": [
+          "api",
+          "ctp",
+          "python3"
+        ],
+        "updated_at": "2021-09-07"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2021-09-07",
+      "updated_at": "2026-03-01"
+    },
+    "nladuo/THSTrader": {
+      "metadata": {
+        "full_name": "nladuo/THSTrader",
+        "name": "THSTrader",
+        "owner": "nladuo",
+        "description": "量化交易工具。同花顺手机版模拟炒股python API，基于uiautomator2和图色方法实现。【可自行扩展到实盘】",
+        "stars": 774,
+        "language": "Python",
+        "url": "https://github.com/nladuo/THSTrader",
+        "homepage": "https://www.bilibili.com/video/av46248487/",
+        "topics": [
+          "finance",
+          "quant"
+        ],
+        "updated_at": "2023-09-23"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2023-09-23",
+      "updated_at": "2026-03-01"
+    },
+    "TonyChen56/WeChatRobot": {
+      "metadata": {
+        "full_name": "TonyChen56/WeChatRobot",
+        "name": "WeChatRobot",
+        "owner": "TonyChen56",
+        "description": "微信HOOK、微信机器人   wxhook，数据库解密 微信公众号采集 微信公众号爬虫，企业微信HOOK",
+        "stars": 7059,
+        "language": "C++",
+        "url": "https://github.com/TonyChen56/WeChatRobot",
+        "homepage": "",
+        "topics": [
+          "wechat",
+          "wechatapi",
+          "wechatrobot",
+          "wxhook"
+        ],
+        "updated_at": "2025-12-17"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2025-12-17",
+      "updated_at": "2026-03-01"
+    },
+    "starrtc/starrtc-windows-demo": {
+      "metadata": {
+        "full_name": "starrtc/starrtc-windows-demo",
+        "name": "starrtc-windows-demo",
+        "owner": "starrtc",
+        "description": "windows示例程序代码，免费IM即时通信消息系统(含一对一文字聊天，群聊，聊天室)，免费一对一voip实时通话，免费直播连麦，免费在线会议，视频会议，✨万水千山总是情，来个star行不行✨，更多示例请访问：",
+        "stars": 282,
+        "language": "C++",
+        "url": "https://github.com/starrtc/starrtc-windows-demo",
+        "homepage": "https://docs.starrtc.com/en/download/",
+        "topics": [],
+        "updated_at": "2019-11-21"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2019-11-21",
+      "updated_at": "2026-03-01"
+    },
+    "starrtc/starrtc-android-demo": {
+      "metadata": {
+        "full_name": "starrtc/starrtc-android-demo",
+        "name": "starrtc-android-demo",
+        "owner": "starrtc",
+        "description": "🚀starRTC，即时通讯(IM)系统，免费IM系统（含单聊，群聊，聊天室，文件传输），免费一对一视频聊天，VOIP，语音对讲（回音消除），直播连麦，视频直播，RTSP拉流，RTMP推流，webRTC服务端，在线教育，白板，小班课，在线会议，视频会议，视频监控，局域网直连（无需服务器），兼容webRTC, 支持webRTC加速，P2P高清传输，安卓、iOS、web互通，支持门禁对讲，可视对讲，电视盒子，树莓派，海思，全志，任天堂switch，云游戏，OTT设备，物联网平台，C语言自研方案，支持二次开发成类微信，类映客等APP，✨万水千山总是情，来个star行不行✨，更多示例请访问：",
+        "stars": 3753,
+        "language": "N/A",
+        "url": "https://github.com/starrtc/starrtc-android-demo",
+        "homepage": "https://docs.starrtc.com/en/download/",
+        "topics": [
+          "chatroom",
+          "coturn",
+          "free",
+          "groupchat",
+          "im",
+          "janus",
+          "jitsi",
+          "kurento",
+          "licode",
+          "live",
+          "raspberry-pi",
+          "video",
+          "video-chat",
+          "voip",
+          "webrtc"
+        ],
+        "updated_at": "2021-07-26"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2021-07-26",
+      "updated_at": "2026-03-01"
+    },
+    "PKUJohnson/OpenData": {
+      "metadata": {
+        "full_name": "PKUJohnson/OpenData",
+        "name": "OpenData",
+        "owner": "PKUJohnson",
+        "description": "开源的金融投资数据提取工具，专注在各类网站上爬取数据，并通过简单易用的API方式使用",
+        "stars": 1361,
+        "language": "Python",
+        "url": "https://github.com/PKUJohnson/OpenData",
+        "homepage": "",
+        "topics": [],
+        "updated_at": "2020-11-04"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2020-11-04",
+      "updated_at": "2026-03-01"
+    },
+    "grizzlybears/fdra": {
+      "metadata": {
+        "full_name": "grizzlybears/fdra",
+        "name": "fdra",
+        "owner": "grizzlybears",
+        "description": "Future Daily Report Analyzer for investorservice.cfmmc.com",
+        "stars": 4,
+        "language": "Python",
+        "url": "https://github.com/grizzlybears/fdra",
+        "homepage": "",
+        "topics": [],
+        "updated_at": "2022-09-21"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2022-09-21",
+      "updated_at": "2026-03-01"
+    },
+    "adyzng/jd-autobuy": {
+      "metadata": {
+        "full_name": "adyzng/jd-autobuy",
+        "name": "jd-autobuy",
+        "owner": "adyzng",
+        "description": "Python爬虫，京东自动登录，在线抢购商品",
+        "stars": 1314,
+        "language": "Python",
+        "url": "https://github.com/adyzng/jd-autobuy",
+        "homepage": "",
+        "topics": [
+          "crawler",
+          "jingdong",
+          "python",
+          "scraper"
+        ],
+        "updated_at": "2019-08-19"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2019-08-19",
+      "updated_at": "2026-03-01"
+    },
+    "zy519871324/PUBG_Radar2.26": {
+      "metadata": {
+        "full_name": "zy519871324/PUBG_Radar2.26",
+        "name": "PUBG_Radar2.26",
+        "owner": "zy519871324",
+        "description": "learn more",
+        "stars": 30,
+        "language": "JavaScript",
+        "url": "https://github.com/zy519871324/PUBG_Radar2.26",
+        "homepage": "",
+        "topics": [
+          "copy"
+        ],
+        "updated_at": "2018-04-28"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2018-04-28",
+      "updated_at": "2026-03-01"
+    },
+    "jiangtaste/diss-spam-call": {
+      "metadata": {
+        "full_name": "jiangtaste/diss-spam-call",
+        "name": "diss-spam-call",
+        "owner": "jiangtaste",
+        "description": "对骚扰电话，我们将以其人之身，还治其人之道。",
+        "stars": 62,
+        "language": "Python",
+        "url": "https://github.com/jiangtaste/diss-spam-call",
+        "homepage": "",
+        "topics": [],
+        "updated_at": "2023-11-16"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2023-11-16",
+      "updated_at": "2026-03-01"
+    },
+    "reruin/sharelist": {
+      "metadata": {
+        "full_name": "reruin/sharelist",
+        "name": "sharelist",
+        "owner": "reruin",
+        "description": "快速分享 GoogleDrive OneDrive ",
+        "stars": 2692,
+        "language": "TypeScript",
+        "url": "https://github.com/reruin/sharelist",
+        "homepage": "",
+        "topics": [],
+        "updated_at": "2025-06-13"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2025-06-13",
+      "updated_at": "2026-03-01"
+    },
+    "SeaHOH/GotoX": {
+      "metadata": {
+        "full_name": "SeaHOH/GotoX",
+        "name": "GotoX",
+        "owner": "SeaHOH",
+        "description": "本地自动代理，修改自 goagent。",
+        "stars": 759,
+        "language": "Python",
+        "url": "https://github.com/SeaHOH/GotoX",
+        "homepage": "",
+        "topics": [
+          "auto-proxy",
+          "bypass-sni",
+          "sni",
+          "sni-proxy"
+        ],
+        "updated_at": "2025-03-01"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2025-03-01",
+      "updated_at": "2026-03-01"
+    },
+    "goproxy0/goproxy": {
+      "metadata": {
+        "full_name": "goproxy0/goproxy",
+        "name": "goproxy",
+        "owner": "goproxy0",
+        "description": "致敬@phuslu",
+        "stars": 146,
+        "language": "Go",
+        "url": "https://github.com/goproxy0/goproxy",
+        "homepage": "",
+        "topics": [],
+        "updated_at": "2018-06-08"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2018-06-08",
+      "updated_at": "2026-03-01"
+    },
+    "DIYgod/RSSHub": {
+      "metadata": {
+        "full_name": "DIYgod/RSSHub",
+        "name": "RSSHub",
+        "owner": "DIYgod",
+        "description": "🧡 Everything is RSSible",
+        "stars": 42261,
+        "language": "TypeScript",
+        "url": "https://github.com/DIYgod/RSSHub",
+        "homepage": "https://docs.rsshub.app",
+        "topics": [
+          "bilibili",
+          "douban",
+          "dribbble",
+          "instagram",
+          "lofter",
+          "pixiv",
+          "rss",
+          "rsshub",
+          "spotify",
+          "telegram",
+          "tiktok",
+          "twitter",
+          "v2ex",
+          "wechat",
+          "weibo",
+          "ximalaya",
+          "youtube",
+          "zhihu"
+        ],
+        "updated_at": "2026-02-28"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2026-02-28",
+      "updated_at": "2026-03-01"
+    },
+    "Srar/node-tap": {
+      "metadata": {
+        "full_name": "Srar/node-tap",
+        "name": "node-tap",
+        "owner": "Srar",
+        "description": "基于TypeScript实现的开源SSTap",
+        "stars": 679,
+        "language": "TypeScript",
+        "url": "https://github.com/Srar/node-tap",
+        "homepage": "",
+        "topics": [
+          "shadowsocks",
+          "sstap"
+        ],
+        "updated_at": "2019-09-11"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2019-09-11",
+      "updated_at": "2026-03-01"
+    },
+    "geekape/geek-navigation": {
+      "metadata": {
+        "full_name": "geekape/geek-navigation",
+        "name": "geek-navigation",
+        "owner": "geekape",
+        "description": "❤️ 极客猿导航－独立开发者的导航站！",
+        "stars": 1903,
+        "language": "TypeScript",
+        "url": "https://github.com/geekape/geek-navigation",
+        "homepage": "http://nav.geekape.net/",
+        "topics": [
+          "express",
+          "mongodb",
+          "nodejs",
+          "vue"
+        ],
+        "updated_at": "2024-07-02"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2024-07-02",
+      "updated_at": "2026-03-01"
+    },
+    "teddysun/shadowsocks_install": {
+      "metadata": {
+        "full_name": "teddysun/shadowsocks_install",
+        "name": "shadowsocks_install",
+        "owner": "teddysun",
+        "description": "Auto Install Shadowsocks Server for CentOS/Debian/Ubuntu",
+        "stars": 8238,
+        "language": "Shell",
+        "url": "https://github.com/teddysun/shadowsocks_install",
+        "homepage": "https://teddysun.com",
+        "topics": [
+          "shadowsocks",
+          "shadowsocks-libev",
+          "shadowsocks-server",
+          "shadowsocksr",
+          "ssr"
+        ],
+        "updated_at": "2026-02-10"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2026-02-10",
+      "updated_at": "2026-03-01"
+    },
+    "iMeiji/shadowsocks_install": {
+      "metadata": {
+        "full_name": "iMeiji/shadowsocks_install",
+        "name": "shadowsocks_install",
+        "owner": "iMeiji",
+        "description": "Auto install shadowsocks server，thanks 秋水逸冰",
+        "stars": 4204,
+        "language": "N/A",
+        "url": "https://github.com/iMeiji/shadowsocks_install",
+        "homepage": "https://teddysun.com/",
+        "topics": [],
+        "updated_at": "2018-03-10"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2018-03-10",
+      "updated_at": "2026-03-01"
+    },
+    "snail007/goproxy": {
+      "metadata": {
+        "full_name": "snail007/goproxy",
+        "name": "goproxy",
+        "owner": "snail007",
+        "description": "🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。",
+        "stars": 16884,
+        "language": "Go",
+        "url": "https://github.com/snail007/goproxy",
+        "homepage": "https://www.goproxy.win/",
+        "topics": [
+          "dns-proxy",
+          "encryption-proxy",
+          "http",
+          "http-proxy",
+          "https-proxy",
+          "kcptun",
+          "reverse-proxy",
+          "socket",
+          "socks5",
+          "socks5-proxy",
+          "ss-proxy",
+          "tcp",
+          "tcp-proxy",
+          "tls",
+          "tls-proxy",
+          "transparent-proxy",
+          "udp",
+          "udp-proxy",
+          "upstream-proxies",
+          "websocket-proxy"
+        ],
+        "updated_at": "2025-09-02"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2025-09-02",
+      "updated_at": "2026-03-01"
+    },
+    "ginuerzh/gost": {
+      "metadata": {
+        "full_name": "ginuerzh/gost",
+        "name": "gost",
+        "owner": "ginuerzh",
+        "description": "GO Simple Tunnel - a simple tunnel written in golang",
+        "stars": 17636,
+        "language": "Go",
+        "url": "https://github.com/ginuerzh/gost",
+        "homepage": "",
+        "topics": [
+          "dns",
+          "go",
+          "golang",
+          "http2",
+          "kcp",
+          "obfs4",
+          "quic",
+          "shadowsocks",
+          "sni",
+          "socks5",
+          "ssh",
+          "tls",
+          "tunnel",
+          "tuntap",
+          "udp"
+        ],
+        "updated_at": "2024-12-31"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2024-12-31",
+      "updated_at": "2026-03-01"
+    },
+    "yuanxin69/m3u": {
+      "metadata": {
+        "full_name": "yuanxin69/m3u",
+        "name": "m3u",
+        "owner": "yuanxin69",
+        "description": "kodi list",
+        "stars": 610,
+        "language": "N/A",
+        "url": "https://github.com/yuanxin69/m3u",
+        "homepage": "",
+        "topics": [],
+        "updated_at": "2025-12-12"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2025-12-12",
+      "updated_at": "2026-03-01"
+    },
+    "cbeuw/GoQuiet": {
+      "metadata": {
+        "full_name": "cbeuw/GoQuiet",
+        "name": "GoQuiet",
+        "owner": "cbeuw",
+        "description": "A Shadowsocks obfuscation plugin utilising domain fronting to evade deep packet inspection",
+        "stars": 821,
+        "language": "Go",
+        "url": "https://github.com/cbeuw/GoQuiet",
+        "homepage": "",
+        "topics": [],
+        "updated_at": "2022-03-04"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2022-03-04",
+      "updated_at": "2026-03-01"
+    },
+    "taxigps/xbmc-addons-chinese": {
+      "metadata": {
+        "full_name": "taxigps/xbmc-addons-chinese",
+        "name": "xbmc-addons-chinese",
+        "owner": "taxigps",
+        "description": "Addon scripts, plugins, and skins for XBMC Media Center. Special for chinese laguage.",
+        "stars": 3203,
+        "language": "Python",
+        "url": "https://github.com/taxigps/xbmc-addons-chinese",
+        "homepage": "",
+        "topics": [],
+        "updated_at": "2024-08-14"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2024-08-14",
+      "updated_at": "2026-03-01"
+    },
+    "coyove/goflyway": {
+      "metadata": {
+        "full_name": "coyove/goflyway",
+        "name": "goflyway",
+        "owner": "coyove",
+        "description": "An encrypted HTTP server",
+        "stars": 4297,
+        "language": "Go",
+        "url": "https://github.com/coyove/goflyway",
+        "homepage": "",
+        "topics": [
+          "golang",
+          "mitmproxy",
+          "socks",
+          "tcp-tunnel",
+          "udp-tunnel",
+          "websocket"
+        ],
+        "updated_at": "2023-04-22"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2023-04-22",
+      "updated_at": "2026-03-01"
+    },
+    "xzjs/weizansk": {
+      "metadata": {
+        "full_name": "xzjs/weizansk",
+        "name": "weizansk",
+        "owner": "xzjs",
+        "description": "重新整理的微赞",
+        "stars": 2,
+        "language": "PHP",
+        "url": "https://github.com/xzjs/weizansk",
+        "homepage": "",
+        "topics": [],
+        "updated_at": "2016-07-27"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2016-07-27",
+      "updated_at": "2026-03-01"
+    },
+    "nagadomi/waifu2x": {
+      "metadata": {
+        "full_name": "nagadomi/waifu2x",
+        "name": "waifu2x",
+        "owner": "nagadomi",
+        "description": "Image Super-Resolution for Anime-Style Art",
+        "stars": 28155,
+        "language": "Lua",
+        "url": "https://github.com/nagadomi/waifu2x",
+        "homepage": "http://waifu2x.udp.jp/ ",
+        "topics": [
+          "super-resolution",
+          "torch",
+          "waifu2x"
+        ],
+        "updated_at": "2023-05-04"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2023-05-04",
+      "updated_at": "2026-03-01"
+    },
+    "xm0625/VBrowser-Android": {
+      "metadata": {
+        "full_name": "xm0625/VBrowser-Android",
+        "name": "VBrowser-Android",
+        "owner": "xm0625",
+        "description": "全网视频嗅探缓存APP",
+        "stars": 656,
+        "language": "Java",
+        "url": "https://github.com/xm0625/VBrowser-Android",
+        "homepage": "",
+        "topics": [
+          "android",
+          "animation",
+          "crosswalk-webview",
+          "downloader",
+          "eventbus",
+          "gradle",
+          "m3u8"
+        ],
+        "updated_at": "2024-07-15"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2024-07-15",
+      "updated_at": "2026-03-01"
+    },
+    "taotaolin/v2ray.fun": {
+      "metadata": {
+        "full_name": "taotaolin/v2ray.fun",
+        "name": "v2ray.fun",
+        "owner": "taotaolin",
+        "description": "v2ray傻瓜式一键部署脚本",
+        "stars": 1,
+        "language": "Python",
+        "url": "https://github.com/taotaolin/v2ray.fun",
+        "homepage": "",
+        "topics": [],
+        "updated_at": "2017-11-28"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2017-11-28",
+      "updated_at": "2026-03-01"
+    },
+    "nanqinlang-mogic/lightsocks": {
+      "metadata": {
+        "full_name": "nanqinlang-mogic/lightsocks",
+        "name": "lightsocks",
+        "owner": "nanqinlang-mogic",
+        "description": "socks5 proxy based on lightsocks-python",
+        "stars": 14,
+        "language": "Python",
+        "url": "https://github.com/nanqinlang-mogic/lightsocks",
+        "homepage": "",
+        "topics": [],
+        "updated_at": "2018-03-02"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2018-03-02",
+      "updated_at": "2026-03-01"
+    },
+    "KiriKira/vTemplate": {
+      "metadata": {
+        "full_name": "KiriKira/vTemplate",
+        "name": "vTemplate",
+        "owner": "KiriKira",
+        "description": "v2ray的模板们",
+        "stars": 1735,
+        "language": "N/A",
+        "url": "https://github.com/KiriKira/vTemplate",
+        "homepage": "",
+        "topics": [],
+        "updated_at": "2020-07-31"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2020-07-31",
+      "updated_at": "2026-03-01"
+    },
+    "huginn/huginn": {
+      "metadata": {
+        "full_name": "huginn/huginn",
+        "name": "huginn",
+        "owner": "huginn",
+        "description": "Create agents that monitor and act on your behalf.  Your agents are standing by!",
+        "stars": 48783,
+        "language": "Ruby",
+        "url": "https://github.com/huginn/huginn",
+        "homepage": "",
+        "topics": [
+          "agent",
+          "automation",
+          "feed",
+          "feedgenerator",
+          "huginn",
+          "monitoring",
+          "notifications",
+          "rss",
+          "scraper",
+          "twitter",
+          "twitter-streaming",
+          "webscraping"
+        ],
+        "updated_at": "2026-02-24"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2026-02-24",
+      "updated_at": "2026-03-01"
+    },
+    "JQ-Networks/UnifiedMessageRelay": {
+      "metadata": {
+        "full_name": "JQ-Networks/UnifiedMessageRelay",
+        "name": "UnifiedMessageRelay",
+        "owner": "JQ-Networks",
+        "description": "Group Message Forward Framework (supports QQ Telegram Line Discord)",
+        "stars": 424,
+        "language": "Python",
+        "url": "https://github.com/JQ-Networks/UnifiedMessageRelay",
+        "homepage": "",
+        "topics": [
+          "asyncio",
+          "coolq",
+          "coolq-docker",
+          "coolq-http-api",
+          "discord",
+          "discord-bot",
+          "line",
+          "line-bot",
+          "python-asyncio",
+          "qqbot",
+          "quart",
+          "telegram",
+          "telegram-bot"
+        ],
+        "updated_at": "2020-06-15"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2020-06-15",
+      "updated_at": "2026-03-01"
+    },
+    "iovxw/rssbot": {
+      "metadata": {
+        "full_name": "iovxw/rssbot",
+        "name": "rssbot",
+        "owner": "iovxw",
+        "description": "Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人",
+        "stars": 1674,
+        "language": "Rust",
+        "url": "https://github.com/iovxw/rssbot",
+        "homepage": "http://t.me/RustRssBot",
+        "topics": [
+          "bot",
+          "chinese",
+          "feed",
+          "rss",
+          "rssbot",
+          "telegram",
+          "telegram-bot",
+          "telegram-rss"
+        ],
+        "updated_at": "2026-01-28"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2026-01-28",
+      "updated_at": "2026-03-01"
+    },
+    "TeamNewPipe/NewPipe": {
+      "metadata": {
+        "full_name": "TeamNewPipe/NewPipe",
+        "name": "NewPipe",
+        "owner": "TeamNewPipe",
+        "description": "A libre lightweight streaming front-end for Android.",
+        "stars": 37364,
+        "language": "Java",
+        "url": "https://github.com/TeamNewPipe/NewPipe",
+        "homepage": "https://newpipe.net",
+        "topics": [
+          "4k",
+          "android",
+          "bandcamp",
+          "download-videos",
+          "newpipe",
+          "peertube",
+          "soundcloud",
+          "translation",
+          "video",
+          "watch",
+          "youtube-video"
+        ],
+        "updated_at": "2026-02-28"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2026-02-28",
+      "updated_at": "2026-03-01"
+    },
+    "zgq354/weibo-rss": {
+      "metadata": {
+        "full_name": "zgq354/weibo-rss",
+        "name": "weibo-rss",
+        "owner": "zgq354",
+        "description": "🍰 把喜欢的微博转为 RSS 订阅源",
+        "stars": 839,
+        "language": "TypeScript",
+        "url": "https://github.com/zgq354/weibo-rss",
+        "homepage": "https://zgq.me/posts/weibo-rss/",
+        "topics": [],
+        "updated_at": "2025-04-09"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2025-04-09",
+      "updated_at": "2026-03-01"
+    },
+    "DIYgod/Weibo2RSS": {
+      "metadata": {
+        "full_name": "DIYgod/Weibo2RSS",
+        "name": "Weibo2RSS",
+        "owner": "DIYgod",
+        "description": ":cookie: 使用RSS订阅喜欢的微博博主 & 女朋友的微博情绪监控",
+        "stars": 481,
+        "language": "JavaScript",
+        "url": "https://github.com/DIYgod/Weibo2RSS",
+        "homepage": "https://api.prprpr.me/weibo/rss/3306934123",
+        "topics": [],
+        "updated_at": "2018-04-19"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2018-04-19",
+      "updated_at": "2026-03-01"
+    },
+    "vvipi/py3_demo_on_vnpy_ctp": {
+      "metadata": {
+        "full_name": "vvipi/py3_demo_on_vnpy_ctp",
+        "name": "py3_demo_on_vnpy_ctp",
+        "owner": "vvipi",
+        "description": "基于vnpy的ctp接口的python3版本简单示例",
+        "stars": 72,
+        "language": "Python",
+        "url": "https://github.com/vvipi/py3_demo_on_vnpy_ctp",
+        "homepage": "",
+        "topics": [],
+        "updated_at": "2019-07-25"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2019-07-25",
+      "updated_at": "2026-03-01"
+    },
+    "xdtianyu/scripts": {
+      "metadata": {
+        "full_name": "xdtianyu/scripts",
+        "name": "scripts",
+        "owner": "xdtianyu",
+        "description": "scripts for work",
+        "stars": 1027,
+        "language": "Shell",
+        "url": "https://github.com/xdtianyu/scripts",
+        "homepage": "https://www.xdty.org",
+        "topics": [],
+        "updated_at": "2022-11-22"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2022-11-22",
+      "updated_at": "2026-03-01"
+    },
+    "Tai7sy/card-system": {
+      "metadata": {
+        "full_name": "Tai7sy/card-system",
+        "name": "card-system",
+        "owner": "Tai7sy",
+        "description": "卡密商城系统，高效安全的在线卡密商城",
+        "stars": 2997,
+        "language": "PHP",
+        "url": "https://github.com/Tai7sy/card-system",
+        "homepage": "",
+        "topics": [],
+        "updated_at": "2025-09-10"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2025-09-10",
+      "updated_at": "2026-03-01"
+    },
+    "xyuanmu/XX-Mini": {
+      "metadata": {
+        "full_name": "xyuanmu/XX-Mini",
+        "name": "XX-Mini",
+        "owner": "xyuanmu",
+        "description": ":ghost: XX-Net 精简版",
+        "stars": 442,
+        "language": "Python",
+        "url": "https://github.com/xyuanmu/XX-Mini",
+        "homepage": "",
+        "topics": [
+          "goagent",
+          "proxy",
+          "uncensored",
+          "vpn",
+          "xx-mini",
+          "xx-net"
+        ],
+        "updated_at": "2018-05-28"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2018-05-28",
+      "updated_at": "2026-03-01"
+    },
+    "spacemeowx2/DouyuHTML5Player": {
+      "metadata": {
+        "full_name": "spacemeowx2/DouyuHTML5Player",
+        "name": "DouyuHTML5Player",
+        "owner": "spacemeowx2",
+        "description": "替换斗鱼的Flash弹幕播放器",
+        "stars": 591,
+        "language": "TypeScript",
+        "url": "https://github.com/spacemeowx2/DouyuHTML5Player",
+        "homepage": "",
+        "topics": [
+          "html5",
+          "javascript"
+        ],
+        "updated_at": "2018-11-12"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2018-11-12",
+      "updated_at": "2026-03-01"
+    },
+    "topher-au/WoWmapper": {
+      "metadata": {
+        "full_name": "topher-au/WoWmapper",
+        "name": "WoWmapper",
+        "owner": "topher-au",
+        "description": "Controller input mapper for World of Warcraft and ConsolePort",
+        "stars": 123,
+        "language": "C#",
+        "url": "https://github.com/topher-au/WoWmapper",
+        "homepage": "",
+        "topics": [],
+        "updated_at": "2022-06-07"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2022-06-07",
+      "updated_at": "2026-03-01"
+    },
+    "lxyu/weibo": {
+      "metadata": {
+        "full_name": "lxyu/weibo",
+        "name": "weibo",
+        "owner": "lxyu",
+        "description": "Python sina weibo sdk. More simpler and cleaner than the official one.",
+        "stars": 235,
+        "language": "Python",
+        "url": "https://github.com/lxyu/weibo",
+        "homepage": "http://lxyu.github.io/weibo/",
+        "topics": [],
+        "updated_at": "2019-07-14"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2019-07-14",
+      "updated_at": "2026-03-01"
+    },
+    "jiayiming/FireLocalSWF": {
+      "metadata": {
+        "full_name": "jiayiming/FireLocalSWF",
+        "name": "FireLocalSWF",
+        "owner": "jiayiming",
+        "description": "我修改过的UC版本地视频网站播放器（Firefox专用）",
+        "stars": 81,
+        "language": "JavaScript",
+        "url": "https://github.com/jiayiming/FireLocalSWF",
+        "homepage": "",
+        "topics": [],
+        "updated_at": "2018-12-26"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2018-12-26",
+      "updated_at": "2026-03-01"
+    },
+    "out0fmemory/GoAgent-Always-Available": {
+      "metadata": {
+        "full_name": "out0fmemory/GoAgent-Always-Available",
+        "name": "GoAgent-Always-Available",
+        "owner": "out0fmemory",
+        "description": "一直可用的GoAgent，会定时扫描可用的google gae ip，提供可自动化获取ip运行的版本",
+        "stars": 1130,
+        "language": "Python",
+        "url": "https://github.com/out0fmemory/GoAgent-Always-Available",
+        "homepage": "",
+        "topics": [
+          "fq",
+          "gae",
+          "gfw",
+          "goagent",
+          "google",
+          "googleip",
+          "gws"
+        ],
+        "updated_at": "2022-03-21"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2022-03-21",
+      "updated_at": "2026-03-01"
+    },
+    "napjon/krisk": {
+      "metadata": {
+        "full_name": "napjon/krisk",
+        "name": "krisk",
+        "owner": "napjon",
+        "description": "Statistical Interactive Visualization with pandas+Jupyter integration on top of Echarts.",
+        "stars": 119,
+        "language": "Jupyter Notebook",
+        "url": "https://github.com/napjon/krisk",
+        "homepage": "",
+        "topics": [
+          "dashboard",
+          "data-science",
+          "data-visualization",
+          "echarts",
+          "interactive-charts",
+          "jupyter-notebook",
+          "python"
+        ],
+        "updated_at": "2022-01-20"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2022-01-20",
+      "updated_at": "2026-03-01"
+    },
+    "kingmo888/Spyder_Simplified_Chinese": {
+      "metadata": {
+        "full_name": "kingmo888/Spyder_Simplified_Chinese",
+        "name": "Spyder_Simplified_Chinese",
+        "owner": "kingmo888",
+        "description": "Spyder简体中文语言包及一键安装脚本",
+        "stars": 267,
+        "language": "Python",
+        "url": "https://github.com/kingmo888/Spyder_Simplified_Chinese",
+        "homepage": "https://www.lizenghai.top",
+        "topics": [],
+        "updated_at": "2018-07-28"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2018-07-28",
+      "updated_at": "2026-03-01"
+    },
+    "waditu/tushare": {
+      "metadata": {
+        "full_name": "waditu/tushare",
+        "name": "tushare",
+        "owner": "waditu",
+        "description": "TuShare is a utility for crawling historical data of China stocks",
+        "stars": 14496,
+        "language": "Python",
+        "url": "https://github.com/waditu/tushare",
+        "homepage": "",
+        "topics": [
+          "finance",
+          "fintech",
+          "pandas",
+          "python",
+          "realtime-quotes-data",
+          "stock-data",
+          "stock-market",
+          "tushare"
+        ],
+        "updated_at": "2024-03-13"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2024-03-13",
+      "updated_at": "2026-03-01"
+    },
+    "hoothin/UserScripts": {
+      "metadata": {
+        "full_name": "hoothin/UserScripts",
+        "name": "UserScripts",
+        "owner": "hoothin",
+        "description": "Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴腳本集 ユーザースクリプト集",
+        "stars": 4070,
+        "language": "JavaScript",
+        "url": "https://github.com/hoothin/UserScripts",
+        "homepage": "https://greasyfork.org/users/8227-hoothin",
+        "topics": [
+          "add-on",
+          "auto-scroll",
+          "autopager",
+          "autopagerize",
+          "chrome-extension",
+          "firefox-addon",
+          "greasemonkey",
+          "hoverzoom",
+          "image-downloader",
+          "image-enlarger",
+          "image-zoomer",
+          "infinite-scroll",
+          "infinite-scrolling",
+          "novel-downloader",
+          "picture-download",
+          "picture-gallery",
+          "productivity",
+          "tampermonkey",
+          "userscript",
+          "zoom-images"
+        ],
+        "updated_at": "2026-02-27"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2026-02-27",
+      "updated_at": "2026-03-01"
+    },
+    "jd8001/LPPL": {
+      "metadata": {
+        "full_name": "jd8001/LPPL",
+        "name": "LPPL",
+        "owner": "jd8001",
+        "description": "This is a genetic algorithm implemented in python to solve the LPPL equation looking for market bubbles",
+        "stars": 48,
+        "language": "Python",
+        "url": "https://github.com/jd8001/LPPL",
+        "homepage": "",
+        "topics": [],
+        "updated_at": "2020-10-01"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2020-10-01",
+      "updated_at": "2026-03-01"
+    },
+    "CreatCodeBuild/TensorFlow-and-DeepLearning-Tutorial": {
+      "metadata": {
+        "full_name": "CreatCodeBuild/TensorFlow-and-DeepLearning-Tutorial",
+        "name": "TensorFlow-and-DeepLearning-Tutorial",
+        "owner": "CreatCodeBuild",
+        "description": "A TensorFlow & Deep Learning online course I taught in 2016",
+        "stars": 2308,
+        "language": "Python",
+        "url": "https://github.com/CreatCodeBuild/TensorFlow-and-DeepLearning-Tutorial",
+        "homepage": "",
+        "topics": [
+          "deep-learning",
+          "deep-learning-tutorial",
+          "tensorboard",
+          "tensorflow"
+        ],
+        "updated_at": "2020-03-22"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2020-03-22",
+      "updated_at": "2026-03-01"
+    },
+    "sincerefly/IDCardQuery": {
+      "metadata": {
+        "full_name": "sincerefly/IDCardQuery",
+        "name": "IDCardQuery",
+        "owner": "sincerefly",
+        "description": "输入身份证号码，判断18位身份证号码是否合法，并查询信息(性别，年龄，所在地)",
+        "stars": 42,
+        "language": "C",
+        "url": "https://github.com/sincerefly/IDCardQuery",
+        "homepage": "",
+        "topics": [],
+        "updated_at": "2022-05-09"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2022-05-09",
+      "updated_at": "2026-03-01"
+    },
+    "vnpy/vnpy": {
+      "metadata": {
+        "full_name": "vnpy/vnpy",
+        "name": "vnpy",
+        "owner": "vnpy",
+        "description": "基于Python的开源量化交易平台开发框架",
+        "stars": 37070,
+        "language": "Python",
+        "url": "https://github.com/vnpy/vnpy",
+        "homepage": "http://www.vnpy.com",
+        "topics": [
+          "algotrading",
+          "finance",
+          "fintech",
+          "investment",
+          "python",
+          "quant",
+          "trading",
+          "vnpy"
+        ],
+        "updated_at": "2026-01-14"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2026-01-14",
+      "updated_at": "2026-03-01"
+    },
+    "shidenggui/easytrader": {
+      "metadata": {
+        "full_name": "shidenggui/easytrader",
+        "name": "easytrader",
+        "owner": "shidenggui",
+        "description": "提供同花顺客户端/miniqmt/雪球的股票量化交易，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合",
+        "stars": 9402,
+        "language": "Python",
+        "url": "https://github.com/shidenggui/easytrader",
+        "homepage": "",
+        "topics": [],
+        "updated_at": "2026-02-28"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2026-02-28",
+      "updated_at": "2026-03-01"
+    },
+    "grapeot/WechatForwardBot": {
+      "metadata": {
+        "full_name": "grapeot/WechatForwardBot",
+        "name": "WechatForwardBot",
+        "owner": "grapeot",
+        "description": "",
+        "stars": 764,
+        "language": "Python",
+        "url": "https://github.com/grapeot/WechatForwardBot",
+        "homepage": "",
+        "topics": [],
+        "updated_at": "2017-04-24"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2017-04-24",
+      "updated_at": "2026-03-01"
+    },
+    "top-think/think": {
+      "metadata": {
+        "full_name": "top-think/think",
+        "name": "think",
+        "owner": "top-think",
+        "description": "ThinkPHP Framework ——二十年匠心的高性能PHP框架",
+        "stars": 7892,
+        "language": "PHP",
+        "url": "https://github.com/top-think/think",
+        "homepage": "http://www.thinkphp.cn",
+        "topics": [
+          "framework",
+          "orm",
+          "route",
+          "template",
+          "thinkphp"
+        ],
+        "updated_at": "2025-07-16"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2025-07-16",
+      "updated_at": "2026-03-01"
+    },
+    "SpiderClub/weibospider": {
+      "metadata": {
+        "full_name": "SpiderClub/weibospider",
+        "name": "weibospider",
+        "owner": "SpiderClub",
+        "description": ":zap: A distributed crawler for weibo, building with celery and requests.",
+        "stars": 4808,
+        "language": "Python",
+        "url": "https://github.com/SpiderClub/weibospider",
+        "homepage": "",
+        "topics": [
+          "data-analysis",
+          "distributed-crawler",
+          "python3",
+          "sina",
+          "weibo",
+          "weibospider"
+        ],
+        "updated_at": "2020-07-11"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2020-07-11",
+      "updated_at": "2026-03-01"
+    },
+    "xchaoinfo/fuck-login": {
+      "metadata": {
+        "full_name": "xchaoinfo/fuck-login",
+        "name": "fuck-login",
+        "owner": "xchaoinfo",
+        "description": "模拟登录一些知名的网站，为了方便爬取需要登录的网站",
+        "stars": 5888,
+        "language": "Python",
+        "url": "https://github.com/xchaoinfo/fuck-login",
+        "homepage": "",
+        "topics": [
+          "login",
+          "python3",
+          "weibo",
+          "zhihu"
+        ],
+        "updated_at": "2018-06-08"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2018-06-08",
+      "updated_at": "2026-03-01"
+    },
+    "cocos2d/cocos2d-x": {
+      "metadata": {
+        "full_name": "cocos2d/cocos2d-x",
+        "name": "cocos2d-x",
+        "owner": "cocos2d",
+        "description": "Cocos2d-x is a suite of open-source, cross-platform, game-development tools utilized by millions of developers across the globe. Its core has evolved to serve as the foundation for Cocos Creator 1.x & 2.x.",
+        "stars": 18951,
+        "language": "C++",
+        "url": "https://github.com/cocos2d/cocos2d-x",
+        "homepage": "https://www.cocos.com/en/cocos2d-x",
+        "topics": [
+          "android",
+          "c-plus-plus",
+          "cocos2d",
+          "cocos2d-x",
+          "game-development",
+          "game-engine",
+          "gamedev",
+          "ios",
+          "linx",
+          "lua",
+          "metal",
+          "windows"
+        ],
+        "updated_at": "2025-05-09"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2025-05-09",
+      "updated_at": "2026-03-01"
+    },
+    "paintdream/DontStarveLuaJIT": {
+      "metadata": {
+        "full_name": "paintdream/DontStarveLuaJIT",
+        "name": "DontStarveLuaJIT",
+        "owner": "paintdream",
+        "description": "Don't Starve LuaJIT/OpenGL ES optimization patch (compatible with DS, RoG, SW, HAM, DST, Dedicated Server for Windows and DST, Dedicated Server for Linux)",
+        "stars": 173,
+        "language": "C",
+        "url": "https://github.com/paintdream/DontStarveLuaJIT",
+        "homepage": "http://paintdream.github.io/DontStarveLuaJIT",
+        "topics": [
+          "dedicated-server",
+          "dll-injection",
+          "dont-starve",
+          "dont-starve-together",
+          "lua"
+        ],
+        "updated_at": "2021-09-10"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2021-09-10",
+      "updated_at": "2026-03-01"
+    },
+    "QuantBox/QuantBox_XAPI": {
+      "metadata": {
+        "full_name": "QuantBox/QuantBox_XAPI",
+        "name": "QuantBox_XAPI",
+        "owner": "QuantBox",
+        "description": "正在升级XAPI2，请关注新版，老版不再维护",
+        "stars": 419,
+        "language": "C++",
+        "url": "https://github.com/QuantBox/QuantBox_XAPI",
+        "homepage": "https://github.com/QuantBox/XAPI2",
+        "topics": [],
+        "updated_at": "2015-11-26"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2015-11-26",
+      "updated_at": "2026-03-01"
     }
   }
 }
